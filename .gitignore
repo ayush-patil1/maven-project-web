@@ -3,4 +3,4 @@ bin/
 .settings/
 .classpath
 .project
-*.class
+apache-tomcat-9.0.100/
